@@ -1,0 +1,17 @@
+.dan{
+    font-family: 'Times New Roman', Times, serif;
+}
+.ban{
+    width: 300px;
+    height: 40px;
+}
+.bam{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+.fan{
+    color: blue;
+}
